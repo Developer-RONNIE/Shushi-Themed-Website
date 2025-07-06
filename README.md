@@ -1,18 +1,21 @@
 <div align="center">
   <br />
     <a href="shushi-themed-website-gold.vercel.app" target="_blank">
-      <img src="" alt="Project Banner">
+      <img src="/assets/banner.png" alt="Project Banner">
     </a>
   <br />
 
   <div>
     <img src="https://img.shields.io/badge/-HTML_5-black?style=for-the-badge&logoColor=white&logo=html5&color=E34F26" alt="html5" />
     <img src="https://img.shields.io/badge/-css3-black?style=for-the-badge&logoColor=white&logo=css3&color=1572B6" alt="css3" />
+    <img src="https://img.shields.io/badge/JavaScript-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black" alt="javascript" />
+
+
   </div>
 
   <h3 align="center">Sushi Website</h3>
     <div align="center">
-     Welcome to the source code of this sushi website — refer to <a href="" ><b>code snippets</b></a> if you find it difficult to navigate or copy specific CSS sections.
+     Welcome to the source code of this sushi website — refer to <a href="#snippets" ><b>code snippets</b></a> if you find it difficult to navigate or copy specific CSS sections.
      </div>
 
 </div>
@@ -31,10 +34,12 @@
 
 Develop a sushi website showcasing popular food, trending sushi, and drinks using HTML and CSS with smooth subtle animations. 
 
-<a href="https://developer-ronnie.hashnode.dev" target="_blank">
-  <img src="https://www.svgrepo.com/show/353856/hashnode.svg" width="20" style="vertical-align:middle; margin-right:8px;" />
-  <strong>Read my blog on Hashnode</strong>
-</a>
+<p align="center">
+  <a href="https://developer-ronnie.hashnode.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Read%20My%20Blog-Hashnode-blueviolet?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Read Blog on Hashnode"/>
+  </a>
+</p>
+
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -903,6 +908,12 @@ Assets used in the project are [here](https://drive.google.com/file/d/1feqXd1mPK
 
 Enjoyed creating this project? Dive deeper into more projects for a richer learning adventure. They're packed with detailed cool features, and exercises to boost your skills. Give it a go!
 
-[![GitHub - HTML-CSS Projects](https://img.shields.io/badge/HTML--CSS--Projects-on%20GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Developer-RONNIE/)
+
+<p align="center">
+  <a href="https://github.com/Developer-RONNIE/">
+    <img src="https://img.shields.io/badge/HTML--CSS-Projects-black?style=for-the-badge&logo=github&logoColor=white" alt="HTML-CSS Projects Badge" />
+  </a>
+</p>
+
 
 
